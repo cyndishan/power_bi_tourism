@@ -56,7 +56,7 @@ MonthTable = DATATABLE(
 
 Here’s a preview of the full Power BI report:
 
-![image](https://github.com/user-attachments/assets/bb1c0fdb-e8e1-4dc4-a482-3a8fccff9476)
+![image](https://github.com/user-attachments/assets/92ec115f-9280-463e-bf13-bd41a3ba3dc1)
 
 
 ---
